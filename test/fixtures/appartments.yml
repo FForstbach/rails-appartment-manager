@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  price: 
+  rooms: 
+  dsl_provider: MyString
+  power_provider: MyString
+  string: MyString
+
+two:
+  price: 
+  rooms: 
+  dsl_provider: MyString
+  power_provider: MyString
+  string: MyString
